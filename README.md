@@ -7,8 +7,9 @@
 ![bluesclues (1)](https://user-images.githubusercontent.com/99623860/198817124-fae35bfd-b5cc-4aa0-b845-457db62c5943.png)
 
 Currently Learning 🐝: Next.js, Typescript
+  </br>
 My Technologies: 
-
+</br>
 <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
 <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
 <img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'/>
@@ -25,7 +26,8 @@ My Technologies:
 <img src='https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white'/>
 <img src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white'/>
 <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'/>
-
+</br>
+</br>
 
 ![Blue's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlueNealis&show_icons=true&theme=tokyonight)
 
