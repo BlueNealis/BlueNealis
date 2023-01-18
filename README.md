@@ -1,6 +1,6 @@
 <div  style="text-align: center;">
 
-### I'm Blue (they/them)! A creative frontend developer! 🐌
+### I'm Blue! A creative frontend developer! 🐌
 
 <p> I'm an illustrator-animator turned Frontend Developer.  I love the how human coding languages are with their quirky qualities, and weird rules. I started my studies in Java but now am primarily building applications in Javascript and Frontend Frameworks.</p>
 
