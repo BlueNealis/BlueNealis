@@ -1,12 +1,11 @@
 <div  style="text-align: center;">
 
-### I'm Blue! A creative frontend developer! 🐌
+### I'm Blue! A Full Stack Developer at Booz Allen Hamilton! 🐌
 
-<p> I'm an illustrator-animator turned Frontend Developer.  I love the how human coding languages are with their quirky qualities, and weird rules. I started my studies in Java but now am primarily building applications in Javascript and Frontend Frameworks.</p>
+<p> I'm an illustrator-animator turned Developer.  I love how human coding languages are with their quirky qualities, and weird rules. I started my studies in Java but now am primarily building applications in Javascript and Frontend Frameworks.</p>
 
 ![bluesclues (1)](https://user-images.githubusercontent.com/99623860/198817124-fae35bfd-b5cc-4aa0-b845-457db62c5943.png)
 
-Currently Learning 🐝: Next.js, Typescript
   </br>
 My Technologies: 
 </br>
